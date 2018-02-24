@@ -1,0 +1,10 @@
+C:\Users\Jay\source\repos\HeadFirstEstimator1\HeadFirstEstimator1\bin\Debug\HeadFirstEstimator1.exe.config
+C:\Users\Jay\source\repos\HeadFirstEstimator1\HeadFirstEstimator1\bin\Debug\HeadFirstEstimator1.exe
+C:\Users\Jay\source\repos\HeadFirstEstimator1\HeadFirstEstimator1\bin\Debug\HeadFirstEstimator1.pdb
+C:\Users\Jay\source\repos\HeadFirstEstimator1\HeadFirstEstimator1\obj\Debug\HeadFirstEstimator1.csprojResolveAssemblyReference.cache
+C:\Users\Jay\source\repos\HeadFirstEstimator1\HeadFirstEstimator1\obj\Debug\HeadFirstEstimator1.Form1.resources
+C:\Users\Jay\source\repos\HeadFirstEstimator1\HeadFirstEstimator1\obj\Debug\HeadFirstEstimator1.Properties.Resources.resources
+C:\Users\Jay\source\repos\HeadFirstEstimator1\HeadFirstEstimator1\obj\Debug\HeadFirstEstimator1.csproj.GenerateResource.Cache
+C:\Users\Jay\source\repos\HeadFirstEstimator1\HeadFirstEstimator1\obj\Debug\HeadFirstEstimator1.csproj.CoreCompileInputs.cache
+C:\Users\Jay\source\repos\HeadFirstEstimator1\HeadFirstEstimator1\obj\Debug\HeadFirstEstimator1.exe
+C:\Users\Jay\source\repos\HeadFirstEstimator1\HeadFirstEstimator1\obj\Debug\HeadFirstEstimator1.pdb
